@@ -5,7 +5,7 @@
 I am a BackEnd Developer.
 
 - 🌱 I’m currently learning Java Spring
-- 💬 Ask me about Python, java
+- 💬 Ask me about java, Python
 - 📫 How to reach me: berkozmen94@hotmail.com
 
 ---
