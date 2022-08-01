@@ -4,7 +4,10 @@
 ### :man_technologist: About Me :
 I am a BackEnd Developer.
 
+
+- 🌱 I have experince about Java.
 - 🌱 I’m currently learning Java Spring
+- 🌱 Also have basic knowledge about Python, HTML, CSS
 - 💬 Ask me about java, python
 - 📫 How to reach me: berkozmen94@hotmail.com
 
