@@ -5,11 +5,11 @@
 I am a BackEnd Developer.
 
 
-- 🌱 I have experince about Java.
-- 🌱 I’m currently learning Java Spring
-- 🌱 Also have basic knowledge about Python, HTML, CSS
-- 💬 Ask me about java, python
-- 📫 How to reach me: berkozmen94@hotmail.com
+- 🌱 I have experince about Java, Java Spring.
+- 🌱 I’m currently learning Backend technologies.
+- 🌱 Also have basic knowledge about Python, HTML, CSS.
+- 💬 Ask me about java, python.
+- 📫 How to reach me: berkozmen94@hotmail.com.
 
 ---
 
