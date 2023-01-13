@@ -7,7 +7,7 @@ I am a BackEnd Developer.
 
 - 🌱 I have experince about Java, Java Spring.
 - 🌱 I’m currently learning Backend technologies.
-- 🌱 Also have basic knowledge about Python, HTML, CSS.
+- 🌱 Also have basic knowledge about Python.
 - 💬 Ask me about java, python.
 - 📫 How to reach me: berkozmen94@hotmail.com.
 
